@@ -11,6 +11,6 @@
   "dependencies": {
     "@octokit/rest": "^17.0.0",
     "azure-pipelines-task-lib": "^2.9.3",
-    "semver": "4.3.3"
+    "semver": "7.7.4"
   }
 }
